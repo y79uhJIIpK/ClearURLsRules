@@ -11,7 +11,7 @@
 This repo manages the rules for the ClearURLs addon. By using the GitLab and GitHub CI/CD, we automatically create checksum files for the rules and make them available through GitLab and GitHub Pages.
 
 ## Contribute
-If you have any suggestions or complaints, please [create an issue](https://gitlab.com/anti-tracking/ClearURLs/rules/-/issues/new) or email us rules.support (at) clearurls.xyz (this mail will automatically create a new issue in this repo).
+If you have any suggestions or complaints, please [create an issue](https://github.com/y79uhJIIpK/ClearURLsRules/issues)
 
 ## Download Rules
 The rules and the corresponding hash file are available on GitLab and GitHub Pages under the following URLs:
